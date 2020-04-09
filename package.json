@@ -1,0 +1,21 @@
+{
+  "name": "graphql2",
+  "version": "1.0.0",
+  "description": "Me",
+  "main": "App.js",
+  "dependencies": {
+    "apollo-server": "^2.12.0",
+    "apollo-server-express": "^2.12.0",
+    "express": "^4.17.1",
+    "gql": "^1.1.2",
+    "graphql": "^15.0.0",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon App.js"
+  },
+  "author": "Will Boswell",
+  "license": "ISC"
+}
